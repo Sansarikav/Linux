@@ -28,7 +28,7 @@ Basic security practices, including file encryption and secure access.
 * Clone the repository:
 bash
 * Copy code
-git clone https://github.com/your-username/linux-essentials.git
+git clone https://github.com/Sansarikav/linux-essentials.git
 Navigate through the organized directories to explore different topics.
 
 # Contribution
